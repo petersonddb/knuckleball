@@ -1,4 +1,4 @@
-# Knuckleball
+# Knuckleball Simulation
 
 ![Results for knuckleball sample simulation](knuckleball.jpeg)
 
